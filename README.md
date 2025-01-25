@@ -15,4 +15,4 @@ hasta hace unos pocos años cuando decidí compaginar, al máximo posible, mi vi
 programación. Es más, la electrónica pasó a un ambito más privado, como un hobby; mi aprendizaje se enfocó en el 
 desarrollo de software.
 
-Este soy yo, un novato con mucho que aprender. Un saludo! :wave:
+Mucho que aprender, y con muchas ganas. Un saludo! :wave:
